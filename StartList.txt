@@ -1,2 +1,2 @@
 5-1 start finish
-5-2 start
+5-2 start finish
